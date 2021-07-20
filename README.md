@@ -1,2 +1,2 @@
 # PasswordGenerator
- Simple Java password generator.
+CSI 2300 Project (Object Oriented Computing). Simple Java password generator.
